@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ojuguele.github.io/IqX/sitemap_index.txt
+Sitemap: https://ojuguele.github.io/ejH/sitemap_index.txt
+Sitemap: https://ojuguele.github.io/gZj/sitemap_index.txt
+Sitemap: https://ojuguele.github.io/led/sitemap_index.txt
